@@ -1,4 +1,5 @@
 ### Hi there, I'am Suna 👋
+### 📫 How to reach me: https://www.linkedin.com/in/suna-ayhan-184209190/
 
 <!--
 **SunaAyhan/SunaAyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
