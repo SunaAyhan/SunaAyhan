@@ -1,7 +1,7 @@
 ###                                                                     Hi there, I'am Suna 👋
 ### 📫 How to reach me: https://www.linkedin.com/in/suna-ayhan-184209190/
-🔭 I’m currently working on React
-🌱 I’m currently learning Electron
+###🔭 I’m currently working on React
+###🌱 I’m currently learning Electron
 
 <!--
 **SunaAyhan/SunaAyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
