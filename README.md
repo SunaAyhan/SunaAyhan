@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Suna, and I am a computer engineering student.</div>  
+### <div align="center">I'm Suna, and I am a computer engineer.</div>  
   
 
 - 🔭 I’m currently working on React.  
